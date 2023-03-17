@@ -1,4 +1,4 @@
-import{_ as n,b as r,a as c}from"./articleContent.75c9329a.js";import{a,o as s,c as m,w as p,f as t}from"./entry.e728a2ff.js";import"./rotateStar.eb565985.js";import"./yangming.a4ee36b6.js";import"./mail_red.04b2549a.js";const i={};function l(b,f){const e=r,_=c,o=n;return s(),m(o,{type:"star",title:"物轉星移，<br>時代眼中的基隆樣貌",name:`
+import{_ as n,a as r}from"./articleContent.6b45b08b.js";import{_ as c}from"./img.21322c13.js";import{a,o as s,c as m,w as p,f as t}from"./entry.fc2b3916.js";import"./rotateStar.70afedc2.js";import"./yangming.1a9d1540.js";import"./mail_red.04b2549a.js";const i={};function f(l,b){const e=r,_=c,o=n;return s(),m(o,{type:"star",title:"物轉星移，<br>時代眼中的基隆樣貌",name:`
       文：西打藍<br>
       圖：涂佳豪
     `},{default:p(()=>[t(e,{text:`
@@ -8,4 +8,4 @@ import{_ as n,b as r,a as c}from"./articleContent.75c9329a.js";import{a,o as s,c
 除了上述基隆經典電影三部曲，更早於 1966 年，就有好萊塢知名導演羅勃懷茲來到基隆港拍攝電影《聖保羅砲艇》，紀錄港口塞滿舢舨船的海港一景；近代如周杰倫的經典歌曲《退後》的MV，即在基隆廟口夜市取景；2020年電影《親愛的房客》有高達八成場景於基隆港周圍拍攝。<br><br>
 新舊時代的基隆充滿故事，也有吸引人探究的魔力。你曾在哪些影像作品中，看見過基隆呢？
 
-    `}),t(_,{img:"img/star/move1.jpg"},null,8,["img"])]),_:1})}const y=a(i,[["render",l],["__scopeId","data-v-ea8efc97"]]);export{y as default};
+    `}),t(_,{img:"img/star/move1.jpg"},null,8,["img"])]),_:1})}const h=a(i,[["render",f],["__scopeId","data-v-ea8efc97"]]);export{h as default};

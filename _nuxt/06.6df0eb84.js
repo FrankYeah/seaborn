@@ -1,4 +1,4 @@
-import{_ as a,a as r,b as c}from"./articleContent.75c9329a.js";import{_ as i}from"./title.3b80f0c7.js";import{a as s,o as m,c as p,w as l,f as t}from"./entry.e728a2ff.js";import"./rotateStar.eb565985.js";import"./yangming.a4ee36b6.js";import"./mail_red.04b2549a.js";const u={};function d(b,f){const e=r,o=c,_=i,n=a;return m(),p(n,{type:"star",title:"每座燈塔都是獨一無二的眼睛",name:`
+import{_ as r}from"./img.21322c13.js";import{_ as a,a as c}from"./articleContent.6b45b08b.js";import{_ as i}from"./title.ae885c5f.js";import{a as m,o as s,c as p,w as l,f as t}from"./entry.fc2b3916.js";import"./rotateStar.70afedc2.js";import"./yangming.1a9d1540.js";import"./mail_red.04b2549a.js";const u={};function d(f,b){const e=r,o=c,_=i,n=a;return s(),p(n,{type:"star",title:"每座燈塔都是獨一無二的眼睛",name:`
       文、圖：鄭十一
     `},{default:l(()=>[t(e,{img:"img/star/lighthouse1.jpg"},null,8,["img"]),t(o,{text:`
     那是位在阿根廷最南端的城市烏斯懷亞（Ushuaia），一座號稱世界盡頭的燈塔（Faro del fin del mundo）。然而真正賦予它世界盡頭的美名，其實是法國的科幻小說家儒勒．凡爾納（Julio Verne）。1905年關於海盜傳奇的小說《世界盡頭的燈塔》（Le Phare du bout du monde），讓人們對燈塔有了更多的想像。<br><br>
@@ -10,4 +10,4 @@ import{_ as a,a as r,b as c}from"./articleContent.75c9329a.js";import{_ as i}fro
     若想領略海角盡頭的感受，台灣本島極東峽角上的三貂角燈塔是個不錯選擇，那裡可以眺望看不見盡頭的太平洋。<br><br>
 1626年，西班牙無敵艦隊從海上遙望，一聲Santiago（聖地牙哥）的驚呼，為三貂角留下美麗的譯名。它是太平洋區的重要指標，有台灣的眼睛之稱，過往太平洋的船隻，只要看到28秒連閃白紅2次的光，便知美麗的福爾摩沙到了。
 
-    `})]),_:1})}const k=s(u,[["render",d],["__scopeId","data-v-26ab32fb"]]);export{k as default};
+    `})]),_:1})}const w=m(u,[["render",d],["__scopeId","data-v-26ab32fb"]]);export{w as default};

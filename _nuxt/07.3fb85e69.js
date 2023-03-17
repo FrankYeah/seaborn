@@ -1,4 +1,4 @@
-import{_ as n,b as c,a}from"./articleContent.75c9329a.js";import{_ as s}from"./title.3b80f0c7.js";import{a as i,o as m,c as p,w as b,f as t}from"./entry.e728a2ff.js";import"./rotateStar.eb565985.js";import"./yangming.a4ee36b6.js";import"./mail_red.04b2549a.js";const l={};function g(u,x){const _=c,e=a,r=s,o=n;return m(),p(o,{type:"star",title:"由港埠轉型，<br>一座人文薈萃的海洋城市",name:`
+import{_ as n,a as c}from"./articleContent.6b45b08b.js";import{_ as a}from"./img.21322c13.js";import{_ as m}from"./title.ae885c5f.js";import{a as i,o as s,c as p,w as b,f as t}from"./entry.fc2b3916.js";import"./rotateStar.70afedc2.js";import"./yangming.1a9d1540.js";import"./mail_red.04b2549a.js";const l={};function g(u,x){const _=c,e=a,r=m,o=n;return s(),p(o,{type:"star",title:"由港埠轉型，<br>一座人文薈萃的海洋城市",name:`
       文：西打藍<br>
       圖：大樹影像、樸實創意、基隆市文化局
     `},{default:b(()=>[t(_,{text:`
@@ -18,4 +18,4 @@ import{_ as n,b as c,a}from"./articleContent.75c9329a.js";import{_ as s}from"./t
 文化館每年舉辦數十項海洋教育相關活動，在十多年積累下，已經漸漸為基隆市民所知，市民也期待文化館每年推出的各式活動，以共襄盛舉。<br><br>
 基隆港是一座擁有豐富歷史、文化和自然風光的城市，有著獨特的港口風景、海運發展和美食文化，同時也是移民文化的重要聚居地。當你漫步在這座港口前，會很自然地感受到海洋自由的氣息，與這座城市獨特的魅力與活力。
 
-    `}),t(e,{img:"img/star/ship3.jpg"},null,8,["img"])]),_:1})}const k=i(l,[["render",g],["__scopeId","data-v-a1edbc09"]]);export{k as default};
+    `}),t(e,{img:"img/star/ship3.jpg"},null,8,["img"])]),_:1})}const w=i(l,[["render",g],["__scopeId","data-v-a1edbc09"]]);export{w as default};

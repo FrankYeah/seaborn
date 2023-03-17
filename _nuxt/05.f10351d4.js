@@ -1,4 +1,4 @@
-import{_ as n,b as c,a as r}from"./articleContent.75c9329a.js";import{a,o as s,c as p,w as m,f as t}from"./entry.e728a2ff.js";import"./rotateStar.eb565985.js";import"./yangming.a4ee36b6.js";import"./mail_red.04b2549a.js";const i={};function l(d,x){const e=c,_=r,o=n;return s(),p(o,{type:"star",title:"對蹠點",name:`
+import{_ as n,a as r}from"./articleContent.6b45b08b.js";import{_ as c}from"./img.21322c13.js";import{a,o as s,c as p,w as m,f as t}from"./entry.fc2b3916.js";import"./rotateStar.70afedc2.js";import"./yangming.1a9d1540.js";import"./mail_red.04b2549a.js";const i={};function l(d,x){const e=r,_=c,o=n;return s(),p(o,{type:"star",title:"對蹠點",name:`
       文、圖：鄭十一
     `},{default:m(()=>[t(e,{text:`
     想像一下，世上最遙遠的距離，<br>
@@ -13,4 +13,4 @@ import{_ as n,b as c,a as r}from"./articleContent.75c9329a.js";import{a,o as s,c
 
     `},null,8,["text"]),t(_,{img:"img/star/place1.jpg"},null,8,["img"]),t(e,{text:`
     身在台灣的我們，從腳底一路穿越地心到另一端的話，大多數的人會抵達巴拉圭，北北基桃的朋友，則會穿越到阿根廷北部的福爾摩沙省，而與基隆市對應的福爾摩沙省皮科馬約縣，已接近阿根廷與巴拉圭的邊境了。這是個有趣又特殊的巧合，畢竟地球的70%都是海洋，對蹠點同為陸地的機率不到5%，更何況地球的另一端還是福爾摩沙。
-    `})]),_:1})}const y=a(i,[["render",l],["__scopeId","data-v-046451d2"]]);export{y as default};
+    `})]),_:1})}const h=a(i,[["render",l],["__scopeId","data-v-046451d2"]]);export{h as default};

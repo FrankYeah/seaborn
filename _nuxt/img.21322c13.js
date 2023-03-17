@@ -1,0 +1,1 @@
+import{_ as t}from"./rotateStar.70afedc2.js";import{a as o,o as c,b as n,u as r}from"./entry.fc2b3916.js";const a=["src"],i={__name:"img",props:["img"],setup(e){const _=e;return(s,m)=>(c(),n("img",{class:"article-right-img",src:`${("useAsset"in s?s.useAsset:r(t))(_.img)}`,alt:""},null,8,a))}},l=o(i,[["__scopeId","data-v-5c26d064"]]);export{l as _};

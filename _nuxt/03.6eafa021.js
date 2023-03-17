@@ -1,4 +1,4 @@
-import{_ as r,a as c,b as a}from"./articleContent.75c9329a.js";import{_ as m}from"./title.3b80f0c7.js";import{a as i,o as s,c as p,w as l,f as t}from"./entry.e728a2ff.js";import"./rotateStar.eb565985.js";import"./yangming.a4ee36b6.js";import"./mail_red.04b2549a.js";const b={};function g(u,x){const o=c,_=a,e=m,n=r;return s(),p(n,{type:"star",title:"賞月觀星的美與樂趣",name:`
+import{_ as r}from"./img.21322c13.js";import{_ as c,a as m}from"./articleContent.6b45b08b.js";import{_ as a}from"./title.ae885c5f.js";import{a as i,o as s,c as p,w as l,f as t}from"./entry.fc2b3916.js";import"./rotateStar.70afedc2.js";import"./yangming.1a9d1540.js";import"./mail_red.04b2549a.js";const b={};function g(u,x){const o=r,_=m,e=a,n=c;return s(),p(n,{type:"star",title:"賞月觀星的美與樂趣",name:`
       文：西打藍<br>
       圖：武崙國中天文台
     `},{default:l(()=>[t(o,{img:"img/star/moon1.jpg"},null,8,["img"]),t(_,{text:`
@@ -17,4 +17,4 @@ import{_ as r,a as c,b as a}from"./articleContent.75c9329a.js";import{_ as m}fro
 觀星，不僅是武崙國中的一門社團課，同時也是校內三位天文專業老師的業餘興趣，「在大海中央，即使沒有任何器具的情況下，只要告訴我日期與時間，我就能找出東南西北方位。」武崙國中天文社老師們自豪地說。<br><br>
 許多學生在畢業後仍保持初心，運用這項少見且專業的興趣於工作或生活上，也有學生主動分享給有興趣的民眾與親友。在基隆這座海與陸地相接的城市，意外培養出一群熱愛觀星的師生，讓這項古老且運用極廣的星象知識持續傳承下去。
 
-    `})]),_:1})}const P=i(b,[["render",g],["__scopeId","data-v-4b232b92"]]);export{P as default};
+    `})]),_:1})}const h=i(b,[["render",g],["__scopeId","data-v-4b232b92"]]);export{h as default};
