@@ -1,4 +1,4 @@
-import{_ as c,a as r,b as a}from"./articleContent.3380a2e1.js";import{_ as p}from"./title.398d4540.js";import{a as s,o as m,c as i,w as l,f as t}from"./entry.1c761c5d.js";import"./rotateStar.60ac5ab5.js";import"./yangming_logo.2fc77c3e.js";import"./mail_red.04324903.js";const x={};function f(u,d){const _=r,e=a,o=p,n=c;return m(),i(n,{type:"star",title:"人造的星星",name:`
+import{_ as c,a as r,b as a}from"./articleContent.aab3b228.js";import{_ as p}from"./title.f13e6886.js";import{a as s,o as m,c as i,w as l,f as t}from"./entry.5ce4b2eb.js";import"./useAsset.282d9324.js";import"./mail_red.f84c02f4.js";import"./rotateStar.2143384f.js";const x={};function f(u,d){const _=r,e=a,o=p,n=c;return m(),i(n,{type:"star",title:"人造的星星",name:`
       文：鄭十一<br>
       圖：涂佳豪、樸實創意
     `},{default:l(()=>[t(_,{marginTop:"0px",img:"img/star/star1.jpg"},null,8,["img"]),t(e,{text:`
