@@ -1,4 +1,4 @@
-import{_ as o,a as _,b as s}from"./articleContent.61c35565.js";import{_ as m}from"./title.15561a64.js";import{a as i,o as b,c,w as p,f as a}from"./entry.05d53c10.js";import"./useAsset.523431c3.js";import"./mail_red.a27638d0.js";import"./rotateStar.4867f5b6.js";const l={};function u(g,x){const t=_,r=s,e=m,n=o;return b(),c(n,{type:"star",title:"以星辰航海<br>紅頭嶼的部落傳說",name:`
+import{_ as o,a as _,b as s}from"./articleContent.0af27799.js";import{_ as m}from"./title.cbd826e3.js";import{a as i,o as b,c,w as p,f as a}from"./entry.4d5fdc19.js";import"./useAsset.e30417c5.js";import"./mail_red.de37d495.js";import"./rotateStar.c2cdd24f.js";const l={};function u(g,x){const t=_,r=s,e=m,n=o;return b(),c(n,{type:"star",title:"以星辰航海<br>紅頭嶼的<br>部落傳說",name:`
       文、圖：夏曼‧藍波安
     `},{default:p(()=>[a(t,{text:`
     我部落伊姆洛庫，現稱之紅頭，部落的人遷移到現在的部落之前的部落稱之立馬西克（Jimasik），意義是水資源豐沛的小平原。不知是四百，還是五百年前，立馬西克有個家族稱之左邊家族，這個家族有位耆老叫左撇子（syapen Mawuzi）。<br><br>
@@ -22,4 +22,4 @@ import{_ as o,a as _,b as s}from"./articleContent.61c35565.js";import{_ as m}fro
     對於我而言，我或許只是個原初的造船者，還在夜間划船捕飛魚。然而，換作是你，你可能的基本知識是零，你才會深深理解“此等事”並非容易。假如我可以說，我曾經做過的，包括航海冒險，不是可以用筆墨，像小說家虛構所有的劇本，那樣易如反掌的。<br><br>
     大自然的最美之處，在於它的野性開放，在於它未經雕琢的原始美貌，也許海洋上、冰原上、沙漠上沒有人造的紅綠燈，但，它們自己有自己的紅綠燈，那些就是風、雲、雨、陽光、月亮、波浪。<br><br>
     人們或許可以依賴GPS，但宇宙上的星象，浮生陸地的大海，並不因為有了GPS（科學）就失去了魅影，相對的，天上的仙女嘲笑人類的自大。假如我可以說，夜間划著我與兒子的拼板船在海上捕飛魚，目的其實是，跟天空的眼睛懇求浪漫的思想。
-    `})]),_:1})}const k=i(l,[["render",u],["__scopeId","data-v-b1943a35"]]);export{k as default};
+    `})]),_:1})}const k=i(l,[["render",u],["__scopeId","data-v-56889021"]]);export{k as default};

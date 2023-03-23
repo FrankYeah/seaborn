@@ -1,4 +1,4 @@
-import{_ as r,a,b as c}from"./articleContent.61c35565.js";import{_ as i}from"./title.15561a64.js";import{a as s,o as m,c as p,w as l,f as t}from"./entry.05d53c10.js";import"./useAsset.523431c3.js";import"./mail_red.a27638d0.js";import"./rotateStar.4867f5b6.js";const u={};function b(d,g){const e=a,o=c,_=i,n=r;return m(),p(n,{type:"star",title:"每座燈塔<br>都是獨一無二的眼睛",name:`
+import{_ as r,a as c,b as a}from"./articleContent.0af27799.js";import{_ as i}from"./title.cbd826e3.js";import{a as s,o as m,c as p,w as l,f as t}from"./entry.4d5fdc19.js";import"./useAsset.e30417c5.js";import"./mail_red.de37d495.js";import"./rotateStar.c2cdd24f.js";const u={};function d(b,f){const e=c,o=a,_=i,n=r;return m(),p(n,{type:"star",title:"每座燈塔都是<br>獨一無二的眼睛",name:`
       文、圖：鄭十一
     `},{default:l(()=>[t(e,{text:`
     燈塔在人們的普遍印象裡，是遙遠、甚或孤獨的存在，但它同時也是指引、希望的象徵。陸地上的人前往燈塔是往海角天邊，尋找遺世獨立的超然感，但對海上的人來說，燈塔是海與陸交界的守護者，帶來靠岸返航的安全感。<br><br>
@@ -11,4 +11,4 @@ import{_ as r,a,b as c}from"./articleContent.61c35565.js";import{_ as i}from"./t
     若想領略海角盡頭的感受，台灣本島極東峽角上的三貂角燈塔是個不錯選擇，那裡可以眺望看不見盡頭的太平洋。<br><br>
 1626年，西班牙無敵艦隊從海上遙望，一聲Santiago（聖地牙哥）的驚呼，為三貂角留下美麗的譯名。它是太平洋區的重要指標，有台灣的眼睛之稱，過往太平洋的船隻，只要看到28秒連閃白紅2次的光，便知美麗的福爾摩沙到了。
 
-    `})]),_:1})}const k=s(u,[["render",b],["__scopeId","data-v-5cb02605"]]);export{k as default};
+    `})]),_:1})}const k=s(u,[["render",d],["__scopeId","data-v-c6f60cc0"]]);export{k as default};
