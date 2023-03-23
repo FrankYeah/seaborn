@@ -1,1 +1,0 @@
-import{a as e,o as _,b as c}from"./entry.9a817e39.js";const n={},s={class:"index"};function t(d,o){return _(),c("div",s)}const r=e(n,[["render",t],["__scopeId","data-v-375dd0bb"]]);export{r as default};

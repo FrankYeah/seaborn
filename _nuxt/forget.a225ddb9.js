@@ -1,1 +1,0 @@
-import{a as e,o as _,b as t}from"./entry.9a817e39.js";const o={},c={class:"forget"};function s(a,n){return _(),t("div",c)}const f=e(o,[["render",s],["__scopeId","data-v-bf3fad17"]]);export{f as default};
