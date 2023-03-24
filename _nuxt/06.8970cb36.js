@@ -1,4 +1,4 @@
-import{_ as c,b as r,a}from"./articleContent.8b761ea1.js";import{_ as s}from"./title.e4eacf09.js";import{a as i,o as m,c as l,w as p,f as t}from"./entry.9774d7e5.js";import"./useAsset.d845fcc4.js";import"./mail_red.fd1f4bb2.js";const u={};function d(b,f){const e=r,o=a,_=s,n=c;return m(),l(n,{type:"star",title:"每座燈塔都是<br>獨一無二的眼睛",name:`
+import{_ as c,b as r,a}from"./articleContent.7b61fd14.js";import{_ as s}from"./title.5675b5a6.js";import{a as i,o as m,c as l,w as p,f as t}from"./entry.d30c28c6.js";import"./useAsset.052ea402.js";import"./mail_red.6c6e1e4a.js";const u={};function d(b,f){const e=r,o=a,_=s,n=c;return m(),l(n,{type:"star",title:"每座燈塔都是<br>獨一無二的眼睛",name:`
       文、圖：鄭十一
     `},{default:p(()=>[t(e,{text:`
     燈塔在人們的普遍印象裡，是遙遠、甚或孤獨的存在，但它同時也是指引、希望的象徵。陸地上的人前往燈塔是往海角天邊，尋找遺世獨立的超然感，但對海上的人來說，燈塔是海與陸交界的守護者，帶來靠岸返航的安全感。<br><br>
