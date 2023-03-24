@@ -1,4 +1,4 @@
-import{_ as c,b as r,a}from"./articleContent.b9f14687.js";import{_ as s}from"./title.c938bac9.js";import{a as p,o as m,c as i,w as l,f as t}from"./entry.9d46d3d2.js";import"./useAsset.1aa7ced5.js";import"./mail_red.0bb0bc51.js";const x={};function d(u,f){const _=r,e=a,n=s,o=c;return m(),i(o,{type:"star",title:"人造的星星",name:`
+import{_ as c,b as r,a}from"./articleContent.8b761ea1.js";import{_ as s}from"./title.e4eacf09.js";import{a as p,o as m,c as i,w as l,f as t}from"./entry.9774d7e5.js";import"./useAsset.d845fcc4.js";import"./mail_red.fd1f4bb2.js";const x={};function d(u,f){const _=r,e=a,n=s,o=c;return m(),i(o,{type:"star",title:"人造的星星",name:`
       文：鄭十一<br>
       圖：涂佳豪、樸實創意
     `},{default:l(()=>[t(_,{text:`

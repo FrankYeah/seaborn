@@ -1,4 +1,4 @@
-import{_ as o,a as n,b as a}from"./articleContent.b9f14687.js";import{a as c,o as s,c as b,w as p,f as t}from"./entry.9d46d3d2.js";import"./useAsset.1aa7ced5.js";import"./mail_red.0bb0bc51.js";const m={};function i(l,d){const r=n,_=a,e=o;return s(),b(e,{type:"star",title:"關於本集",name:`
+import{_ as o,a as n,b as a}from"./articleContent.8b761ea1.js";import{a as c,o as s,c as b,w as p,f as t}from"./entry.9774d7e5.js";import"./useAsset.d845fcc4.js";import"./mail_red.fd1f4bb2.js";const m={};function i(l,d){const r=n,_=a,e=o;return s(),b(e,{type:"star",title:"關於本集",name:`
       
     `},{default:p(()=>[t(r,{marginTop:"20px",img:"img/star/star_cover.jpg"},null,8,["img"]),t(_,{text:`
     談起基隆，總離不開海、雨、港。即使近來有更多關於山的討論，仍舊伴隨著海港。<br><br>

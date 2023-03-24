@@ -1,4 +1,4 @@
-import{_ as o,b as c,a as r}from"./articleContent.b9f14687.js";import{a,o as s,c as p,w as m,f as t}from"./entry.9d46d3d2.js";import"./useAsset.1aa7ced5.js";import"./mail_red.0bb0bc51.js";const i={};function l(d,x){const e=c,_=r,n=o;return s(),p(n,{type:"star",title:"對蹠點",name:`
+import{_ as o,b as c,a as r}from"./articleContent.8b761ea1.js";import{a,o as s,c as p,w as m,f as t}from"./entry.9774d7e5.js";import"./useAsset.d845fcc4.js";import"./mail_red.fd1f4bb2.js";const i={};function l(d,x){const e=c,_=r,n=o;return s(),p(n,{type:"star",title:"對蹠點",name:`
       文、圖：鄭十一
     `},{default:m(()=>[t(e,{text:`
     想像一下，世上最遙遠的距離，<br>
