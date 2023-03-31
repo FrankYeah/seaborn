@@ -1,4 +1,4 @@
-import{_ as r,b as a,a as c}from"./articleContent.3a82267c.js";import{_ as s}from"./title.81bb660e.js";import{a as i,o as m,c as l,w as p,f as t}from"./entry.95a8b4f2.js";import"./useAsset.e97d0830.js";import"./mail_red.fc024c9f.js";const d={};function u(f,g){const e=a,o=c,_=s,n=r;return m(),l(n,{type:"star",title:"每座燈塔都是<br>獨一無二的眼睛",name:`
+import{_ as r,b as a,a as c}from"./articleContent.98351f80.js";import{_ as s}from"./title.3ddb9719.js";import{a as i,o as m,c as l,w as p,f as t}from"./entry.0cdaf49b.js";import"./useAsset.9593b5d8.js";import"./mail_red.3563fc5b.js";const d={};function u(f,g){const e=a,o=c,_=s,n=r;return m(),l(n,{type:"star",title:"每座燈塔都是<br>獨一無二的眼睛",name:`
       文、圖：鄭十一
     `},{default:p(()=>[t(e,{text:`
     「聽說那兒有個燈塔，失戀的人都喜歡去，把不開心的東西留下。」 這是電影《春光乍泄》中，黎耀輝（梁朝偉）曾說過的話。<br><br>
