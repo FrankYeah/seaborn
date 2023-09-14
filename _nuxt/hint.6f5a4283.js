@@ -1,0 +1,1 @@
+import{a as _,o as n,e as o}from"./entry.613ead20.js";const s=["innerHTML"],c={__name:"hint",props:["text"],setup(t){const e=t;return(a,r)=>(n(),o("div",{class:"article-right-text",innerHTML:e.text},null,8,s))}},i=_(c,[["__scopeId","data-v-23181a2f"]]);export{i as _};
