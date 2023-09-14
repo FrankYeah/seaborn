@@ -1,1 +1,0 @@
-import{a as _,o as n,e as o,j as s}from"./entry.1f295d5a.js";const a=["innerHTML"],r={__name:"title",props:["title","marginTop"],setup(e){const t=e;return(c,i)=>(n(),o("div",{class:"article-right-title",style:s(`margin-top:${t.marginTop}`),innerHTML:t.title},null,12,a))}},p=_(r,[["__scopeId","data-v-b237b195"]]);export{p as _};
