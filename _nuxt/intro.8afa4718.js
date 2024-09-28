@@ -1,1 +1,0 @@
-import{a as _,o as n,i as o}from"./entry.c4005316.js";const c=["innerHTML"],s={__name:"intro",props:["text"],setup(t){const e=t;return(r,a)=>(n(),o("div",{class:"article-right-text",innerHTML:e.text},null,8,c))}},i=_(s,[["__scopeId","data-v-a1ef30c6"]]);export{i as _};
